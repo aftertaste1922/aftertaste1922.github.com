@@ -2,3 +2,4 @@ baseURL = "https://github.com/aftertaste1922/aftertaste1922.github.com"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
+buildFuture = true
